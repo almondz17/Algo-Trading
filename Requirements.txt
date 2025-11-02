@@ -1,1 +1,1 @@
-
+Includes Python libraries and packages used for collaboration purposes.
